@@ -1,18 +1,18 @@
 {
   "name": "note_taker",
   "version": "1.0.0",
-  "description": "# 11 Express.js: Note Taker",
+  "description": "A simple note-taking application built with Express.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Express.js", "note-taking", "server"],
+  "author": "Your Name or Organization",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.3",
     "inquirer": "^8.2.4",
-    "uuid": "^9.0.1"
+    "uuid": "^5.4.0"
   },
   "devDependencies": {
     "jest": "^29.7.0"
