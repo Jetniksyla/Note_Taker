@@ -12,7 +12,7 @@
   "dependencies": {
     "express": "^4.18.3",
     "inquirer": "^8.2.4",
-    "uuid": "^5.4.0"
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "jest": "^29.7.0"
